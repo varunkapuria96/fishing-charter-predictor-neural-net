@@ -32,7 +32,7 @@ cd fishing-charter-classifier
 3. Run the Python script:
 
 ```bash
-python fishing_charter_classifier.py
+python FishingCharterNeuralNetPython.py
 ```
 
 ## Overview
@@ -60,5 +60,3 @@ You can replace this dataset with your own data by providing a CSV file with the
 ## Model
 The neural network model used is a basic feedforward neural network with a sigmoid activation function. You can modify the architecture of the model by changing the number of hidden layers and neurons as needed.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed for your own projects.
