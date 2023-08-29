@@ -20,7 +20,7 @@ pip install pandas numpy scikit-learn keras
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/fishing-charter-classifier.git
+git clone https://github.com/your-username/fishing-charter-predictor-neural-net.git
 ```
 
 2. Navigate to the repository directory:
